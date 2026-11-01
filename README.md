@@ -1,3 +1,11 @@
+# Crowdfunding Challenge
+
+**Live demo:** https://crowdfunding-challenge-zeta.vercel.app
+
+My solution to the [SpeedRunEthereum](https://speedrunethereum.com) Crowdfunding Challenge challenge, built on Scaffold-ETH 2.
+
+---
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
